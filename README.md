@@ -1,5 +1,6 @@
 # docker-compose
-Para rodar um conteiner específico, basta entrar na página e digitar:
+Para rodar um container específico, basta entrar no diretório e digitar:
 ```
 $ sudo docker-compose up -d
 ```
+Containers dispoíveis: Kafka e PostgreSQL
